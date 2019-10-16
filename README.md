@@ -1,2 +1,8 @@
-# 100-algorithms-challenge
-Collection of simple 100 algorithm challenges. From simple to hard. 
+# Coding Interview Prep (Thousands of hours of challenges)
+
+I am solving coding challenges in https://www.freecodecamp.org/. I will upload as soon as solve. 
+
+You can go to https://www.freecodecamp.org/learn and solve the problems and compare to mine if you like it.
+
+
+Thanks to Free Code Camp https://www.freecodecamp.org/learn. To provide the content. 
