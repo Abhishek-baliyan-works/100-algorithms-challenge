@@ -1,6 +1,6 @@
 # Coding Interview Prep (Thousands of hours of challenges)
 
-I am solving coding challenges in https://www.freecodecamp.org/. I will upload as soon as solve. 
+I am solving coding challenges in https://www.freecodecamp.org/. 
 
 You can go to https://www.freecodecamp.org/learn and solve the problems and compare to mine if you like it.
 
